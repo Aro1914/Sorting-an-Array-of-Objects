@@ -1,13 +1,5 @@
 const arrayOfObjects = [
     {
-        firstName: 'victor',
-        lastName: 'Ijoni',
-        id: 1,
-        sex: 'male',
-        age: 28,
-        cars: ['red', 'green', 'blue']
-    },
-    {
         firstName: 'Ruky',
         lastName: 'Choji',
         id: 11,
@@ -48,14 +40,6 @@ const arrayOfObjects = [
         sex: 'female',
         age: 50,
         cars: ['tundra', 'green', 'blue']
-    },
-    {
-        firstName: 'taiwo',
-        lastName: 'Ajayi',
-        id: 41,
-        sex: 'male',
-        age: 29,
-        cars: ['mini bus', 'green', 'blue']
     }
 ];
 
