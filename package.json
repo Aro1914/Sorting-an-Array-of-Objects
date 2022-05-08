@@ -1,6 +1,6 @@
 {
   "name": "sort-array-of-objects",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A helper function that sorts an array of objects.",
   "main": "sortArrayOfObjects.js",
   "scripts": {
