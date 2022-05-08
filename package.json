@@ -1,0 +1,27 @@
+{
+  "name": "object-array-sort",
+  "version": "0.0.1",
+  "description": "A helper function that sorts an array of objects.",
+  "main": "sortArrayOfObjects.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aro1914/Sorting-an-Array-of-Objects.git"
+  },
+  "keywords": [
+    "sorting",
+    "functions",
+    "arrays",
+    "objects",
+    "helper-functions",
+    "array-manipulation"
+  ],
+  "author": "Emmanuel Agbavwe",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Aro1914/Sorting-an-Array-of-Objects/issues"
+  },
+  "homepage": "https://github.com/Aro1914/Sorting-an-Array-of-Objects#readme"
+}
