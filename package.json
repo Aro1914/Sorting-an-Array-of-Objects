@@ -1,5 +1,5 @@
 {
-  "name": "sort-array-of-objects",
+  "name": "@aro1914/sort-array-of-objects",
   "version": "1.0.0",
   "description": "A helper function that sorts an array of objects.",
   "main": "sortArrayOfObjects.js",
