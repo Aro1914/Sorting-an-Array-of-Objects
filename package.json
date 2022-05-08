@@ -19,7 +19,8 @@
     "array-manipulation"
   ],
   "author": "Emmanuel Agbavwe",
-  "license": "Apache-2.0",
+  "license": "Apache-2.0",  
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Aro1914/Sorting-an-Array-of-Objects/issues"
   },
